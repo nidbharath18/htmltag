@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <link rel="stylesheet" href="style.css" >
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <div class="httags">
+
+            <h1>Html Tags </h1>
+            <p> Here  is a list of Important tags used in Html for your reference</p>
+        </div>    
+            <table>
+             
+                <thead>
+                               
+                    <tr>
+                        <td> Tags </td>
+                        <td> Definition </td>
+                        <td> Syntax </td>
+                    </tr>
+
+                </thead>
+                    
+                <tbody>
+
+                    <div class="doctype">
+                        <tr>
+                            <td> <div class="tag"> &lt;!DOCTYPE html&gt;</div></td>
+                            <td> The DOCTYPE html declaration defines that this document is an HTML5 document </td>
+                            <td> &lt;!DOCTYPE html&gt; </td>
+                        </tr>
+                    </div>
+
+                    <div class="heading">
+                        <tr>
+                            <td>  <div class="tag"> &lt;h1-h6&gt;</div></td>
+                            <td>  HTML headings are defined with the &lt;h1&gt; to &lt;h6&gt; tags.&lt;h1&gt; defines the most important heading.  &lt;h6&gt; defines the least important heading </td>
+                            <td>  &lt;h1&gt; Your Heading &lt;/h1&gt; </td>
+                        </tr>
+                    </div>
+                   
+                    
+                    <div class="para">
+                        <tr>
+                            <td>  <div class="tag">&lt;p&gt;</div> </td>
+                            <td> The HTML &lt;p&gt; element defines a paragraph.A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph. </td>
+                            <td> &lt;p&gt; </td>
+                        </tr>
+                    </div>
+
+                    <div class="divi">
+                        <tr>
+                            <td>  <div class="tag">&lt;div&gt;</div> </td>
+                            <td> The &lt;div&gt;element defines a division or a section in an HTML document
+                            <td> &lt;div&gt; </td>
+                        </tr>
+                    </div>
+                    <div class="links">
+                        <tr>
+                            <td>  <div class="tag">&lt;link&gt;</div> </td>
+                            <td> The &lt;link&gt; element defines the relationship between the current document and an external resource. </td>
+                            <td> &lt;link&gt; </td>
+                        </tr>
+                    </div>
+
+                    
+                    <div class="trow">
+                        <tr>
+                            <td><div class="tag"> &lt;tr&gt;</div> </td>
+                            <td> Each table row starts with a &lt;tr&gt; and ends with a &lt;/tr&gt; tag. </td>
+                            <td> &lt;tr&gt; </td>
+                        </tr>
+                    </div>
+
+                    <div class="tdef">
+                        <tr>
+                            <td>  <div class="tag">&lt;td&gt;</div> </td>
+                            <td> Each table cell is defined by a &lt;td&gt; and a &lt;/td&gt; tag. </td>
+                            <td> &lt;td&gt; </td>
+                        </tr>
+                    </div>
+
+                    <div class="alink">
+                        <tr>
+                            <td>  <div class="tag">&lt;a&gt;</div> </td>
+                            <td> The HTML &lt;a&gt; tag defines a hyperlink. </td>
+                            <td> &lt;a&gt; </td>
+                        </tr>
+                    </div>
+
+                    <div class="ulist">
+                        <tr>
+                            <td>  <div class="tag">&lt;ul&gt;</div> </td>
+                            <td> An unordered list starts with the &lt;ul&gt; tag. Each list item starts with the &lt;li&gt; tag.</td>
+                            <td> &lt;ul&gt; </td>
+                        </tr>
+                    </div>
+
+                    <div class="olist">
+                        <tr>
+                            <td>  <div class="tag">&lt;ol&gt;</div> </td>
+                            <td> An ordered list starts with the &lt;ol&gt; tag. Each list item starts with the &lt;li&gt; tag.</td>
+                            <td> &lt;ol&gt; </td>
+                        </tr>
+                    </div>
+
+                    <div class="scripts">
+                        <tr>
+                            <td>  <div class="tag">&lt;script&gt;</div> </td>
+                            <td> The HTML &lt;script&gt; tag is used to define a client-side script (JavaScript).</td>
+                            <td> &lt;script&gt; </td>
+                        </tr>
+                    </div>
+                
+                </tbody>
+            </table>
+
+        
+
+    </body>
+</html>
